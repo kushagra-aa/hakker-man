@@ -4,6 +4,7 @@
   "version": "0.0.0",
   "type": "module",
   "main": "dist/text-element.es.js",
+  "module": "dist/text-element.es.js",
   "exports": {
     ".": "./dist/text-element.es.js"
   },
